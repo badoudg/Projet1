@@ -19,7 +19,7 @@
     </div>
       <ul class="nav navbar-nav">
       <li><a href="/home">Home</a></li>
-      <li><a href="/form"  style="color:grey;">Creer une personne</a></li>
+      <li><a href="/form"  style="color:grey;">Create a person</a></li>
       </ul>
     </div>
   </nav>  
